@@ -6,8 +6,12 @@
 
 ## Patterns
 
-1. Strategy Pattern
-2. Observer Pattern
+1. Strategy
+2. Observer
+3. Decorator
+4. Factory
+5. Sigleton
+6. Command
 
 #
 
