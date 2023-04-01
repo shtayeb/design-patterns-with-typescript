@@ -17,5 +17,5 @@ console.log("1: ", singleton.name); // Test
 let singleton2 = Singleton.getInstance();
 console.log("2: ", singleton2.name); // Test
 
-let test = new Singleton();
-console.log(test.name); // it still works becuase it is JS at the end
+// let test = new Singleton();
+// console.log(test.name); // it still works becuase it is JS at the end
