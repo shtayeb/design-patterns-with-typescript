@@ -12,6 +12,9 @@
 4. Factory
 5. Sigleton
 6. Command
+7. Adapter
+8. Facade
+9. Proxy
 
 #
 
@@ -19,16 +22,16 @@
 
 #
 
-Install TypeScript globally
+Install TypeScript 
 
 ```shell
-npm i typescript -g
+npm install
 ```
 
 Compile and watch the typescript files
 
 ```shell
-tsc -w
+npm run dev
 ```
 
 To run the JS files you need to have Node-js installed
